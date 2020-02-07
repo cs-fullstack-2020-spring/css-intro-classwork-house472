@@ -1,7 +1,8 @@
 # CSS Intro to Selectors and Box Model
-
+#### Make sure you are making changes in the correct repo directory 
+#### Score 1/5
 ### Exercise 1:
-
+#### Use the html:5 command to generate an html skeleton , no css file called problem1_cw.html
 Create a new HTML file called ```problem1_cw.html```, and copy the code below into the ```<body>``` of your HTML file. 
 ```
 <h1>HTML Can be more Fun than Python</h1>
@@ -16,7 +17,7 @@ Create a new HTML file called ```problem1_cw.html```, and copy the code below in
 
 
 ### Exercise 2:
-
+#### No style sheet called main_box.css 
 Start with the included HTML file ```problem2_cw.html```. Create an external CSS file called ```problem2_cw.css``` and create selectors to style the HTML as follows:
 
 * Give the p tags a gray background, and a right margin of 10%. 
